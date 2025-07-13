@@ -46,7 +46,7 @@ Your task is to assist in writing or responding to emails by understanding the c
 # OUTPUT INSTRUCTIONS
 
 - The sender of this email is {{sender}}
-- The email should be formatted as a simple text message with English section first, then translated Russian language section next. In between two sections use separator "-----", put a line break before and after the separator.
+- The email should be formatted as a simple text message with English section first, then translated to Russian language section next. In between two sections use separator "-----", put a line break before and after the separator.
 - Do not put sections names into the message output.
 - When addressing recepient, don't use word "you" in every sentence. Try using word "you" in the beginning and in the introduction and closing and avoid frequent use of "you" in the body.
 - Make sure to translate or transliterate sender's name {{sender}} to Russian alphabet in the Russian section.
