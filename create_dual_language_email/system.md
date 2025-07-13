@@ -37,7 +37,6 @@ Your task is to assist in writing or responding to emails by understanding the c
 
 - **BODY:**
   - Elaborate on the main points, providing necessary details, explanations, or context. 
-  - Provide the same details, explanations and context in Russian language.
 
 - **CLOSING:**
   - Summarize any key points or calls to action.
